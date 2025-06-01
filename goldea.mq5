@@ -1,7 +1,7 @@
 //+------------------------------------------------------------------+
 //|                     BreakoutTradingStrategy.mq5                  |
 //|                        Copyright 2024, Breakout Trading EA       |
-//|                                   1:5 Risk-Reward Ratio Version  |
+//|                    1:5 Risk-Reward Ratio Version  by byski       |
 //+------------------------------------------------------------------+
 #property copyright "Breakout Trading Strategy"
 #property link      ""
